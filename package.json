@@ -1,6 +1,6 @@
 {
   "name": "prisma1-node-client",
-  "version": "1.4.4",
+  "version": "1.4.5",
   "author": "Tim Suchanek <suchanek@prisma.io>, Forked by Andrew Silluron",
   "license": "Apache-2.0",
   "files": [
